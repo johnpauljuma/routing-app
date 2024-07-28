@@ -1,0 +1,13 @@
+.container{
+    background-color: orangered;
+    margin: auto;
+    width: 50%;
+    margin-top: 10em;
+    box-shadow: 5px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+.li{
+    list-style: none;
+}

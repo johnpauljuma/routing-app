@@ -3,7 +3,11 @@ import styles from "./page.module.css";
 
 export default function Home() {
   return (
-    <main className={styles.main}>
+    <div>
+      <h1>This is home page</h1>
+      <p>This is the home content.</p>
+    </div>
+    /*<main className={styles.main}>
       <div className={styles.description}>
         <p>
           Get started by editing&nbsp;
@@ -90,6 +94,6 @@ export default function Home() {
           </p>
         </a>
       </div>
-    </main>
+    </main>*/
   );
 }
